@@ -1,0 +1,26 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Browser profile and session data
+chrome_profile/
+
+# Local job application records
+applied_jobs.csv
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Log files
+*.log
